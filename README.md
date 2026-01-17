@@ -1,7 +1,8 @@
  ## Hello, I'm Suvan Shenoy :)
- - I love to learn new things and read docs, find new tools and technologies.
+ - I love to learn new things and read docs,research,find new tools and technologies.
  - Want to get better at what i do and keep honing my skills.
 
+## Below are some things i know and also want to get better at:
 
 ### Languages & Runtimes:
 
@@ -13,7 +14,6 @@
 	<code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=elixir" alt="Elixir" title="Elixir" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart"/></code>
 </div>
 
 ### Frameworks, Bundlers & Libraries :
@@ -22,22 +22,28 @@
   <code><img width="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></code>
     <code><img width="50" src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" /></code>
     <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnscPTXcOCtzKV1LR43ffPwatieqEgcYwNoBR8yRONDw&s" alt="Zustand" title="Zustand" /></code>
-
   <code><img width="50" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" /></code>
-    <code><img width="50" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter"/></code>
-	<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS103j34WHFMExOEMGeC3Ynyyy7QjksC33DKQ&s" alt="Phoenix" title="Phoenix" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" title="MaterialUI" /></code>
+  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvOgtTYVL_w8kND07LcUN6LRUdS54THScfA&s" alt="DaisyUI" title="DaisyUI" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=htmx" alt="HTMX" title="HTMX" /></code>
+  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvNQyIyR6GOd1wFUk_UM5PScxQvwL0SSpsQ&s" alt="Alpine" title="Alpine" /></code>
+  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS103j34WHFMExOEMGeC3Ynyyy7QjksC33DKQ&s" alt="Phoenix" title="Phoenix" /></code>
 </div>
 
-### Databases, Apis & ORMs:
+### Databases, Apis & ORMs, Query Builders, BaaS:
 
 <div align="center">
   <code><img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" /></code>
 </div>
+
 
 ### Others :
 
@@ -47,7 +53,8 @@
   <code><img width="50" src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=postman" alt="Postman" title="Postman" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=nginx" alt="Nginx" title="Nginx" /></code>
   <code><img with="50" height="50" src="https://techblog.recochoku.jp/wp-content/uploads/2025/08/communityIcon_zp9m64dj1r3a1.png" alt="Helix" title="Helix"/></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=nix" alt="Nix" title="Nix" /></code>
+  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFVZ9JJ3PrF8m-lYW-rPzJpZJVMzq3CwpdsQ&s" alt="Ollama" title="Ollama" /></code>
 </div>
