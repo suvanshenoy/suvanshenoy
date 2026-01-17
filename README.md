@@ -3,7 +3,7 @@
  - Want to get better at what i do and keep honing my skills.
 
 
-### Languages And Runtimes:
+### Languages & Runtimes:
 
 <div align="center">
   <code><img width="50" src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" /></code>
