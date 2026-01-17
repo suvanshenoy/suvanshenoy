@@ -1,6 +1,6 @@
  ## Hello, I'm Suvan Shenoy :)
  - I love to learn new things and read docs, find new tools and technologies.
- - Want to get better at what i do.
+ - Want to get better at what i do and keep honing my skills.
 
 
 ### Languages And Runtimes:
@@ -13,6 +13,7 @@
 	<code><img width="50" src="https://skillicons.dev/icons?i=nodejs" alt="Nodejs" title="Nodejs" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=bun" alt="Bun" title="Bun" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=elixir" alt="Elixir" title="Elixir" /></code>
+  <code><img width="50" src="https://skillicons.dev/icons?i=dart" alt="Dart" title="Dart"/></code>
 </div>
 
 ### Frameworks, Bundlers & Libraries :
@@ -25,6 +26,7 @@
   <code><img width="50" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" /></code>
   <code><img width="50" src="https://skillicons.dev/icons?i=nestjs" alt="NestJS" title="NestJS" /></code>
+    <code><img width="50" src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter"/></code>
 	<code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS103j34WHFMExOEMGeC3Ynyyy7QjksC33DKQ&s" alt="Phoenix" title="Phoenix" /></code>
 </div>
 
