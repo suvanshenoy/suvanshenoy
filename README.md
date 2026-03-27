@@ -16,34 +16,6 @@
   <code><img width="50" src="https://skillicons.dev/icons?i=elixir" alt="Elixir" title="Elixir" /></code>
 </div>
 
-### Frameworks, Bundlers & Libraries :
-
-<div align="center">
-  <code><img width="50" src="https://skillicons.dev/icons?i=react" alt="React" title="React" /></code>
-    <code><img width="50" src="https://skillicons.dev/icons?i=redux" alt="Redux" title="Redux" /></code>
-    <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnscPTXcOCtzKV1LR43ffPwatieqEgcYwNoBR8yRONDw&s" alt="Zustand" title="Zustand" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=vite" alt="Vite" title="Vite" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=materialui" alt="MaterialUI" title="MaterialUI" /></code>
-  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZvOgtTYVL_w8kND07LcUN6LRUdS54THScfA&s" alt="DaisyUI" title="DaisyUI" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=astro" alt="Astro" title="Astro" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=htmx" alt="HTMX" title="HTMX" /></code>
-  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqvNQyIyR6GOd1wFUk_UM5PScxQvwL0SSpsQ&s" alt="Alpine" title="Alpine" /></code>
-  <code><img width="50" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS103j34WHFMExOEMGeC3Ynyyy7QjksC33DKQ&s" alt="Phoenix" title="Phoenix" /></code>
-</div>
-
-### Databases, Apis & ORMs, Query Builders, BaaS:
-
-<div align="center">
-  <code><img width="50" src="https://skillicons.dev/icons?i=sqlite" alt="SQLite" title="SQLite" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" title="PostgreSQL" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=redis" alt="Redis" title="Redis" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" title="GraphQL" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=prisma" alt="Prisma" title="Prisma" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" /></code>
-  <code><img width="50" src="https://skillicons.dev/icons?i=supabase" alt="Supabase" title="Supabase" /></code>
-</div>
-
 
 ### Others :
 
