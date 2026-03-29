@@ -1,10 +1,10 @@
- ## Hello, I'm Suvan Shenoy :)
+ ### Hello, I'm Suvan Shenoy :)
  - I love to learn new things and read docs,research,find new tools and technologies.
  - Want to get better at what i do and keep honing my skills.
 
-## Below are some things i know and also want to get better at:
+### Below are some things i know and also want to get better at:
 
-### Languages & Runtimes:
+#### Languages & Runtimes:
 
 <div align="center">
   <code><img width="50" src="https://skillicons.dev/icons?i=html" alt="Html" title="Html" /></code>
@@ -17,7 +17,7 @@
 </div>
 
 
-### Others :
+#### Others :
 
 <div align="center">
   <code><img width="50" src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" /></code>
